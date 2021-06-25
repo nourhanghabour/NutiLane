@@ -1,0 +1,70 @@
+@import url("https://use.typekit.net/mkv8emp.css");
+
+header {
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+header a {
+    font-family: futura-pt,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 23px;
+    text-decoration: none;
+    color:black;
+}
+
+header img {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+nav {
+    text-align: right;
+    margin-right: 10px;
+    margin-bottom: 120px;
+    position: fixed;
+    top: 30px;
+    right: 10px;
+}
+
+nav a :link {
+    text-decoration: none;
+}
+
+nav a :hover {
+    text-decoration: none;
+}
+
+#abt-nav {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#contact-nav {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#faqs-nav {
+    margin-left: 10px;
+    margin-right: 10px; 
+}
+
+#login-nav {
+    margin-left: 10px;
+    margin-right: 10px;  
+}
+
+#sub-nav {
+background-color: rgb(74, 221, 158);
+border-radius: 20px;
+padding-right: 10px;
+padding-left: 10px;
+margin-left: 10px;
+}
